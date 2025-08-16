@@ -1,0 +1,9 @@
+streamlit
+streamlit-extras
+transformers
+torch
+praw
+google-generativeai
+pdfkit
+jinja2
+xhtml2pdf
