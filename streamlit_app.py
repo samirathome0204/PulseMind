@@ -308,7 +308,7 @@ if "username" not in st.session_state:
             text-align: center;
         """,
     ):
-        st.image("assets/joao_100x100.png", width=100)
+        st.image("joao_100x100.png", width=100)
         st.markdown("<h2 style='margin-top: 1rem;'>👋 Meet <span style='color:#4a90e2'>Joao</span></h2>", unsafe_allow_html=True)
         st.markdown(
             "<p style='color: #555;'>Your empathetic mental health companion. Let's chat about how you're feeling today—no judgment, just support.</p>",
